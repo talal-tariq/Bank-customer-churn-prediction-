@@ -16,7 +16,7 @@ Customer churn, or customer attrition, is a critical concern for businesses acro
 
 **User Interface:** If applicable, the project offers a user-friendly interface or integration options for using the customer churn prediction model within your business applications.
 
-#Getting Started:
+# Getting Started:
 To get started with the Customer Churn Prediction project, follow these steps:
 
 Clone this repository to your local machine.
@@ -26,5 +26,5 @@ Utilize the provided scripts and model for predicting customer churn in your bus
 Contributions:
 Contributions from the open-source community are welcome to enhance this project further. Contribute by creating pull requests, reporting issues, or extending the project with additional features and improvements.
 
-#License:
+# License:
 This project is released under the MIT License, allowing for both personal and commercial use.
